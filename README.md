@@ -111,7 +111,7 @@ Interactive contact page with form, social media links, and email integration fo
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/3D-Portfolio.git
+git clone https://github.com/Sadat-Rakib/3D-Portfolio.git
 cd 3D-Portfolio
 ```
 
@@ -255,10 +255,10 @@ This project is open source and available under the MIT License. See LICENSE fil
 ## Contact & Social
 
 - **Portfolio:** [Mir Sadat Bin Rakib Portfolio](https://mir-sadat-bin-rakib-portfolio.web.app)
-- **GitHub:** [@your-github-username](https://github.com/your-github-username)
-- **LinkedIn:** [Mir Sadat Bin Rakib](https://linkedin.com/in/your-linkedin-profile)
-- **Email:** mir@example.com
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **GitHub:** [@Sadat-Rakib](https://github.com/Sadat-Rakib)
+- **LinkedIn:** [Mir Sadat Bin Rakib](https://linkedin.com/in/mir-sadat-bin-rakib)
+- **Email:** mirsadatbinrakib01@gmail.com
+- **Twitter:** [@msbr_dev](https://twitter.com/msbr_dev)
 
 ## Project Highlights
 
